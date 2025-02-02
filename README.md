@@ -660,8 +660,8 @@ Implementation:
 · Make Predicitions
 · Evaluate the model (R2 & MAE)
 By providing Train & Test data as input model makes the prediction by making the values fit a straight line.
-•	R-squared (0.96): The RandomForest model explains 96% of the variance in the target variable, indicating a strong fit and good predictive power.
-•	Mean Absolute Error (2309.2): On average, the model’s predictions are off by 2083.91, which is acceptable based on the scale of the sales data
+•	R-squared (0.93): The RandomForest model explains 93% of the variance in the target variable, indicating a strong fit and good predictive power.
+•	Mean Absolute Error (3177.6): On average, the model’s predictions are off by 3177.6, which is acceptable based on the scale of the sales data
 Further below plots implies the good fit of data & additionally shows the feature importance where feature- #Order stands out.
  ![image](https://github.com/user-attachments/assets/4b4eded3-3f36-4bc8-96f2-837f686a343b)
 
@@ -682,8 +682,8 @@ Implementation:
 · Train the Model
 · Make Predictions and Evaluate the Model
 · Feature Importance
-· R-squared (0.9700): The XGBoost model explains 97% of the variance in the target variable, indicating a strong fit and good predictive power.
-· Mean Absolute Error (2083.9067): On average, the model’s predictions are off by 2083.91, which is acceptable based on the scale of the sales data
+· R-squared (0.94): The XGBoost model explains 94% of the variance in the target variable, indicating a strong fit and good predictive power.
+· Mean Absolute Error (2980.2): On average, the model’s predictions are off by 2980.2, which is acceptable based on the scale of the sales data
 Further below plots implies the good fit of data & additionally shows the feature importance where feature- #Order stands out.
  ![image](https://github.com/user-attachments/assets/f3b0f58f-090a-40f0-abca-268bdb350596)
 
