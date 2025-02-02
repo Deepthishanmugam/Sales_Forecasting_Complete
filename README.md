@@ -1,6 +1,6 @@
-##**Product sales forecasting**
+### **Product sales forecasting**
 
-###**Contents**
+### **Contents**
 1. Introduction
 2. Exploratory Data Analysis
 3. Hypothesis Testing
